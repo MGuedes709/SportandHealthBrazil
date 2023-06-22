@@ -1,10 +1,48 @@
-.logosite{
-    width: 325px;
-    height: 210px;
-    position: absolute;
-    top:40%;
-    left:50%;
-    transform: translate(-50%,-50%);
-
-    
+body {
+    background-color: rgb(101, 129, 101);
 }
+
+.logosite {
+    width: 285px;
+    height: 190px;
+    position: fixed;
+    top: 4%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.exh1{
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    font-size: 60px;
+
+}
+.exh2 {
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    font-size: 40px;
+
+}
+
+.exp {
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+    font-size: 20px;
+}
+.ptp{color: rgb(255, 255, 255);
+    margin-left: 20px;
+    font-size: 20px;}
+    .avisop{
+        color: red;
+        font-size: 40px;
+    }
