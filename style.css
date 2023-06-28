@@ -42,7 +42,7 @@ ul {
     color: rgb(255, 255, 255);
     margin-left: 30px;
     font-size: 20px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin-top: 30px;
 }
 
@@ -50,7 +50,7 @@ ul {
     color: rgb(255, 255, 255);
     margin-left: 20px;
     font-size: 20px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .avisop {
@@ -71,8 +71,8 @@ ul {
     margin-bottom: 100px;
     margin-left: 150px;
     display: inline-block;
-    max-height: 200px;
-    min-height: 200px;
+    max-height: 190px;
+    min-height: 190px;
 }
 
 .carousel-control-prev,
@@ -83,52 +83,59 @@ ul {
 
 #btn1 {
     position: absolute;
-    top: 100%;
+    top: 110%;
     transform: translateY(-50%);
     z-index: 10;
+    margin-top: 15px;
 }
 
 #btn2 {
     position: absolute;
-    top: 175%;
+    top: 195%;
     transform: translateY(-50%);
     z-index: 10;
+    margin-top: 15px;
 
 }
 
 #btn3 {
     position: absolute;
-    top: 265%;
+    top: 295%;
     transform: translateY(-50%);
     z-index: 10;
+    margin-top: 50px;
 }
 
 #btn4 {
     position: absolute;
-    top: 385%;
+    top: 425%;
     transform: translateY(-50%);
     z-index: 10;
+    margin-top: 50px;
 }
 
 #btn5 {
     position: absolute;
-    top: 470%;
+    top: 495%;
     transform: translateY(-50%);
     z-index: 10;
+    margin-top: 100px;
 }
 
 #btn6 {
     position: absolute;
-    top: 555%;
+    top: 585%;
     transform: translateY(-50%);
     z-index: 10;
+    margin-top: 100px;
 }
 
 #btn7 {
     position: absolute;
-    top: 635%;
+    top: 685%;
     transform: translateY(-50%);
     z-index: 10;
+    margin-top: 100px;
 }
 
 
