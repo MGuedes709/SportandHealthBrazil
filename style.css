@@ -21,30 +21,36 @@ ul {
 
 .exh1 {
     color: rgb(255, 255, 255);
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     margin-left: 30px;
     font-size: 60px;
+    margin-top: 30px;
 
 }
 
 .exh2 {
     color: rgb(255, 255, 255);
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin-left: 30px;
-    font-size: 40px;
+    font-size: 25px;
+    margin-top: 25px;
+    margin-bottom: 20px;
 
 }
 
 .exp {
     color: rgb(255, 255, 255);
-    margin-left: 20px;
+    margin-left: 30px;
     font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 30px;
 }
 
 .ptp {
     color: rgb(255, 255, 255);
     margin-left: 20px;
     font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .avisop {
@@ -65,6 +71,8 @@ ul {
     margin-bottom: 100px;
     margin-left: 150px;
     display: inline-block;
+    max-height: 200px;
+    min-height: 200px;
 }
 
 .carousel-control-prev,
@@ -75,14 +83,14 @@ ul {
 
 #btn1 {
     position: absolute;
-    top: 64%;
+    top: 100%;
     transform: translateY(-50%);
     z-index: 10;
 }
 
 #btn2 {
     position: absolute;
-    top: 140%;
+    top: 175%;
     transform: translateY(-50%);
     z-index: 10;
 
@@ -90,35 +98,35 @@ ul {
 
 #btn3 {
     position: absolute;
-    top: 225%;
+    top: 265%;
     transform: translateY(-50%);
     z-index: 10;
 }
 
 #btn4 {
     position: absolute;
-    top: 315%;
+    top: 385%;
     transform: translateY(-50%);
     z-index: 10;
 }
 
 #btn5 {
     position: absolute;
-    top: 370%;
+    top: 470%;
     transform: translateY(-50%);
     z-index: 10;
 }
 
 #btn6 {
     position: absolute;
-    top: 450%;
+    top: 555%;
     transform: translateY(-50%);
     z-index: 10;
 }
 
 #btn7 {
     position: absolute;
-    top: 520%;
+    top: 635%;
     transform: translateY(-50%);
     z-index: 10;
 }
@@ -165,6 +173,7 @@ footer {
     padding: 0 20px;
     text-align: left;
 }
+
 .rodape {
     width: 102%;
     margin-top: 50px;
@@ -174,8 +183,9 @@ footer {
     padding: 0;
     border: 1px solid #000000;
 }
-.logorp{
-    width: 165px;
-    height: 130px;
+
+.logorp {
+    width: 205px;
+    height: 140px;
 
 }

@@ -20,6 +20,7 @@
     margin-top: 50px;
     margin-bottom: 50px;
     max-width: 100%;
+    border: 1px solid sandybrown;
 }
 
 .descricao {
@@ -30,8 +31,9 @@
     position: relative;
     top: -40%;
     margin-bottom: -5px;
-    font-size: 10px;
-display: inline-block;
+    font-size: 11px;
+    display: inline-block;
+    border: 1px solid black;
 }
 
 .contatos {
@@ -44,7 +46,7 @@ display: inline-block;
     border: 1px solid #000000;
     position: relative;
     float: right;
-    
+
 }
 
 .interior {
@@ -55,9 +57,10 @@ display: inline-block;
     position: relative;
     top: 10%;
     margin-bottom: -5px;
-    
-    
+
+
 }
+
 .redessociais1 {
     width: 45px;
     height: 45px;
@@ -69,6 +72,7 @@ display: inline-block;
     flex-direction: column;
     align-items: flex-start;
     margin-top: 10px;
+    border: 1px solid sandybrown;
 
-    
+
 }

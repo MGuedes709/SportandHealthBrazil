@@ -1,6 +1,8 @@
 .sobre {
     color: whitesmoke;
     font-size: 20px;
+    margin-left: 30px;
+    margin-top: 30px;
 }
 
 .contato {
@@ -20,6 +22,22 @@
     margin-left: 40px;
     flex-direction: column;
     align-items: flex-start;
+    border: 1px solid black;
+
+
+}
+
+.redessociais2 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: inline-flex;
+    max-width: 100%;
+    margin-left: 40px;
+    flex-direction: column;
+    align-items: flex-start;
+    border: 1px solid black;
 
 
 }
@@ -34,10 +52,12 @@
     position: relative;
 
 }
-.perfisp{
+
+.perfisp {
     color: whitesmoke;
     font-size: 20px;
 }
+
 .perfil {
     width: 50px;
     height: 50px;
@@ -48,6 +68,6 @@
     margin-left: 20px;
     flex-direction: column;
     align-items: flex-start;
-border: solid white 1px;
-margin-top: 2px;
+    border: solid white 1px;
+    margin-top: 2px;
 }
